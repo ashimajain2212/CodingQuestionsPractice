@@ -1,5 +1,5 @@
 
-public class RemoveWhiteSpacesString {
+public class RemoveExtraWhiteSpacesString {
 
 	public static void main(String[] args) {
 
